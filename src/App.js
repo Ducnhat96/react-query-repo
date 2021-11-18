@@ -1,10 +1,14 @@
 import "./App.css";
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Init Project</p>x<div>Duc Nhat 96</div>x
+        <p>Init Project</p>
       </header>
+      <div>
+        <p>This is change 1</p>
+      </div>
     </div>
   );
 }
