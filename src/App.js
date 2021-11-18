@@ -1,11 +1,9 @@
 import "./App.css";
-
+import Header from "./Header/Header";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>Init Project</p>
-      </header>
+      <Header />
       <div>
         <p>This is change 1</p>
       </div>
