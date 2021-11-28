@@ -11,8 +11,7 @@ function App() {
       </div>
       <div>
         <p>This is change ip6</p>
-        <p>This is change ip7
-        </p>
+        <p>This is change ip7</p>
       </div>
     </div>
   );
