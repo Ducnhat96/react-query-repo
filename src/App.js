@@ -2,12 +2,12 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+   <div className="App">
       <header className="App-header">
         <p>Init Project</p>
       </header>
       <div>
-        <p>This is change 1</p>
+        <p>This is change 2</p>
       </div>
     </div>
   );
