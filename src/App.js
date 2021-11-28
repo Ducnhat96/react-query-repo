@@ -3,9 +3,11 @@ import Header from "./Header/Header";
 function App() {
   return (
     <div className="App">
-      <Header />
+      <header className="App-header">
+        <p>Init Project</p>
+      </header>
       <div>
-        <p>This is change 1</p>
+        <p>This is change 2</p>
       </div>
     </div>
   );
